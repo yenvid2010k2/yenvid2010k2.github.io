@@ -1,0 +1,350 @@
+@charset "utf-8";
+/* CSS Document */
+/* Reset CSS */
+*{
+	margin: 0;
+	padding: 0;
+}
+.Header{
+	background-color: #E0E7F7;
+	height: 100px;
+}
+.Header img{
+	padding-left: 60px;
+	padding-top: 20px;
+}
+ul li{
+	display: inline;
+	padding: 0px 30px;
+}
+ul{
+	display: inline;
+	margin-left: 400px;
+	color: #083A74;
+}
+li input{
+	background-color: #083A74;
+	color:azure;
+	border: none;
+	padding: 10px 25px;
+	border-radius: 20px;
+}
+.noidung1{
+	width: 50%;
+	text-align: center;
+	float: left;
+	padding-top: 120px;
+	color: #083A74;
+}
+.noidung1 input{
+	background-color: #083A74;
+	color:azure;
+	border: none;
+	padding: 10px 50px;
+	border-radius: 20px;
+	margin-top: 15px;	
+}
+.nen1 img{
+	float: right;
+	padding-top: 25px;
+}
+.Body1{
+	height: 400px;
+}
+.Body2{
+	height: 800px;
+	padding: 100px;
+	background-color:#E3EFFD;
+}
+.noidung2{
+	text-align: center;
+	padding: 0px 250px;
+}
+.noidung2 h2{
+	color: #083A74;
+}
+.nhom1{
+	float: left;
+	text-align: center;	
+	padding: 0px 20px;
+	width: 28%;
+}
+.nhom2{
+	float: left;
+	text-align: center;	
+	padding: 0px 20px;
+	width: 28%;
+}
+.nhom3{
+	float: left;
+	text-align: center;	
+	padding: 0px 20px;
+	width: 28%;
+}
+.noidung3{
+	height: 200px;
+	padding: 50px 0px;
+}
+.how h2{
+	color: #083A74;
+}
+.how input{
+	display: inline;
+}
+.watching{
+	margin-top: 25px;
+	border: none;
+	padding: 10px 40px;
+	border-radius: 20px;
+	background-color: #083A74;
+	color: azure;
+}
+.listening{
+	border: none;
+	padding: 10px 40px;
+	border-radius: 20px;
+	backcground-color: transparent;
+}
+.noidung4{
+	width: 300px;
+	height: 0px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 100px;
+}
+.play{
+	width: 380px;
+	float: right;
+	margin-right: 100px;
+}
+.noidung4a{
+	height: 500px;
+	margin-bottom: 200px;
+}
+.dong1{
+	padding: 10px;
+}
+.dong1 h3{
+	padding: 0px 0px 10px;
+}
+.dong2{
+	padding: 10px;
+}
+.dong2 h3{
+	padding: 0px 0px 10px;
+}
+.dong3{
+	padding: 10px;
+}
+.dong3 h3{
+	padding: 0px 0px 10px;
+}
+.noidung5{
+	background-color: #083A74;
+	height: 150px;
+}
+.noidung5a{
+	height: 200px;
+}
+.trai{
+	color: azure;
+	padding: 40px;
+	margin-left: 170px;
+	float:left;
+}
+.phai{
+	float: right;
+	width: 50%;
+	color: azure;
+	margin-right: 170px;
+	padding-top: 25px;
+}
+.nen2 img{
+	float: left;
+	padding-top: 10px;
+}
+.nhomphai{
+	width: 400px;
+	float: right;
+	margin-right: 120px;
+	margin-top: 100px;
+}
+.lesson h1{
+	color: #083A74;
+}
+.gr1{
+	width: 29%;
+	float: left;
+	padding: 25px 16px 0px 0px;
+}
+.gr2{
+	width: 29%;
+	float: left;
+	padding: 25px 16px 0px 0px;
+}
+.gr3{
+	width: 29%;
+	float: left;
+	padding: 25px 16px 0px 0px;
+}
+.Body3{
+	height: 600px;
+}
+.noidung6{
+	height: 800px;
+	margin: 0px 120px;
+}
+.hinh1{
+	width: 65.667%;
+	height: 180px;
+	background-color: #083A74;
+	color: azure;
+	text-align: center;
+	padding: 180px;
+	display: block;
+}
+.hinh2{
+	float: left;
+	height: 140px;
+	background-color: #B3C4EB;
+	padding: 50px;
+	width: 40%;
+	text-align: center;
+}
+.hinh3{
+	float: left;
+	height: 140px;
+	background-color: #E0E7F7;
+	padding: 50px;
+	width: 40%;
+	text-align: center;
+}
+.skybackground{
+	background-image: url("Sky.png");
+	background-size: cover;
+	height: 550px;
+	padding: 300px;
+	padding-top: 150px;
+	text-align: center;
+	color: #083A74;
+}
+.kalimba{
+	float: left;
+	padding-top: 80px;
+}
+.para1{
+	width: 390px;
+	text-align: center;
+	float: right;
+	padding: 50px;
+	margin-top: 20px;
+}
+.para2{
+	width: 390px;
+	text-align: center;
+	float: left;
+	padding: 0;
+}
+.kalimba2{
+	float: right;
+}
+.noidung7{
+	height: 1000px;
+}
+.noidung8 h1{
+	color: #083A74;
+}
+.noidung8{
+	text-align: center;
+	height: 200px;
+	padding-top: 50px;
+}
+.timkiem{
+	margin-top: 20px;
+	padding: 13px 60px;
+	border-radius: 10px;
+	color: darkgray;
+	border-color: #083A74;
+}
+.tim{
+	padding: 13px 30px;
+	border-radius: 10px;
+	border: none;
+	background-color: #083A74;
+	color: azure;
+}
+.noidung9{
+	height: 550px;
+}
+.bentrai img{
+	float: left;
+	border-radius: 20px;
+	margin-left: 100px;
+}
+.benphai{
+	width: 500px;
+	float: right;
+	margin-right: 80px;
+	margin-top: 20px;
+}
+.benphai h1{
+	color: #083A74;
+	text-align: center;
+}
+.benphai p{
+	text-align: center;
+}
+.name{
+	border-radius: 5px;
+	padding: 8px 40px;
+	background-color: aliceblue;
+	margin-top: 20px;
+}
+.phone{
+	border-radius: 5px;
+	padding: 8px 20px;
+	background-color: aliceblue;
+}
+.email{
+	border-radius: 5px;
+	padding: 8px 148.5px;
+	margin-top: 5px;
+	background-color: aliceblue;
+}
+.review{
+	border-radius: 5px;
+	padding: 80px 148.5px;
+	margin-top: 5px;
+	background-color: aliceblue;
+}
+.create{
+	border: none;
+	border-radius: 20px;
+	padding: 15px 35px;
+	margin-top: 10px;
+	background-color: #083A74;
+	color: azure;
+}
+.Footer{
+	height: 300px;
+	background-color: #083A74;
+	color: azure;
+	text-align: center;
+	padding: 50px;
+}
+.fa{
+	margin: 50px;
+	margin-bottom: 20px;
+}
+.contact ul li{
+	color: azure;
+	display: block;
+	margin: 5px;
+}
+
+
+
+
+
+
+
